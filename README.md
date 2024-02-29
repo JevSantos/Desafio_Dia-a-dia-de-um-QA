@@ -1,10 +1,4 @@
 
-
-<div>
-  <h1 align="left">
-  </h1>
-  
-  <div align='left'>
   <b> ⭐️ Desafio Dia a Dia de um QA </b>
 </div> </br>
 
